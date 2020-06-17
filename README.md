@@ -1,1 +1,1 @@
-# Covid19-EDA-and-Predictions-
+# Wine Quality Classifier 
